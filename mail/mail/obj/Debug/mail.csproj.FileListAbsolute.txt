@@ -1,0 +1,6 @@
+C:\Srinu\mail\mail\obj\Debug\mail.csprojResolveAssemblyReference.cache
+C:\Srinu\mail\mail\bin\mail.dll.config
+C:\Srinu\mail\mail\bin\mail.dll
+C:\Srinu\mail\mail\bin\mail.pdb
+C:\Srinu\mail\mail\obj\Debug\mail.dll
+C:\Srinu\mail\mail\obj\Debug\mail.pdb
